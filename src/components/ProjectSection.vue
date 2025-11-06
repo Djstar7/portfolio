@@ -134,7 +134,7 @@ function startAutoScroll() {
       // L'opérateur modulo assure le bouclage
       scrollContainer.value.scrollLeft = (scrollContainer.value.scrollLeft + step) % halfWidth
     }
-  }, 16)
+  }, 48)
 }
 
 // === Pause & reprise du défilement automatique ===
