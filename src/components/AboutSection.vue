@@ -45,7 +45,7 @@
                         </div>
                         <div class="flex-1 pl-2">
                             <h3 class="text-2xl font-semibold uppercase text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-pink-500 lg:text-xl">IUes/INSAM</h3>
-                            <p class="text-white">Génie Logiciel - Niveau 2</p>
+                            <p class="text-white">BTS en Génie Logiciel</p>
                             <p class="text-white">2026</p>
                         </div>
                     </div>
