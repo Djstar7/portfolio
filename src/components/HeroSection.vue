@@ -13,15 +13,13 @@
                 <div class="lg:py-6">
                     <div class="text-center lg:text-left">
                         <h1 class="pt-4 text-white font-bold text-4xl md:text-5xl lg:text-6xl">
-                            Salut, moi c'est
+                            Bonjour, je suis
                             <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-500">
-                                Stael DJUNE  
-                            </span>😄
+                                Stael DJUNE
+                            </span>
                         </h1>
                         <p class="text-gray-300 pt-8 text-center lg:text-left mx-auto max-w-xl">
-                            Je suis un développeur full-stack passionné par la création de solutions web et mobiles modernes.
-                            Spécialisé en JavaScript, Laravel, Vue.js et Flutter, j'aime transformer des idées en interfaces fluides
-                            et dynamiques. Bienvenue sur mon portfolio !
+                            Développeur Full-Stack Web / Mobile passionné 
                         </p>
 
                         <!-- Buttons -->
@@ -32,20 +30,7 @@
                                 download="Stael_DJUNE_CV.pdf"
                                 class="bg-amber-500 hover:bg-amber-600 px-6 md:px-7 py-3 rounded-full flex items-center gap-2 text-white transition-all"
                             >
-                                <svg
-                                    xmlns="http://www.w3.org/2000/svg"
-                                    fill="none"
-                                    viewBox="0 0 24 24"
-                                    stroke-width="1.5"
-                                    stroke="currentColor"
-                                    class="w-6 h-6"
-                                >
-                                    <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        d="M4.5 20.25h15m-7.5-15v10.5m0 0l-3-3m3 3l3-3"
-                                    />
-                                </svg>
+                                <i class="fas fa-download"></i>
                                 Télécharger mon CV
                             </a>
                         </div>
@@ -54,11 +39,11 @@
 
                 <!-- Image block -->
                 <div class="flex items-center justify-center">
-                    <div class="relative z-20 w-72 h-72 p-2 rounded-full shadow-lg border border-amber-500">
+                    <div class="relative z-20 w-72 h-72 p-2 rounded-full shadow-lg">
                         <img
-                            src="../assets/top_picture.jpg"
+                            src="../assets/me.jpg"
                             alt="Photo de Stael DJUNE"
-                            class="w-full h-full rounded-full object-cover"
+                            class="w-full h-full rounded-full object-contain"
                         />
                     </div>
                 </div>
@@ -73,8 +58,8 @@ import AOS from 'aos'
 import 'aos/dist/aos.css'
 AOS.init()
 
-// ✅ Import correct d'un PDF dans Vite
-import cvPdf from '../assets/CV/moncv.pdf'
+// Import correct d'un PDF dans Vite
+import cvPdf from '../assets/CV/cv.pdf'
 </script>
 
 <style scoped>

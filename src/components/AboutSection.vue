@@ -5,7 +5,7 @@
         </div>
         <div class="md:grid md:grid-cols-2 items-center gap-8 py-8 px-4 xl:gap-16 sm:py-16 xl:px-16 z-1 ">
             <div data-aos="flip-right">
-                <h2 class="text-4xl font-bold text-white text-left mb-8">Mes Etudes</h2>
+                <h2 class="text-4xl font-bold text-white text-left mb-8">Mes Études</h2>
                 <div class="space-y-6 py-6">
                     <div class="flex items-center w-full rounded-xl md:w-[80%] bg-[#111a3c] shadow-lg border border-[#1f1641] p-4">
                         <div class="flex items-center justify-center w-16 h-16 rounded-full bg-gradient-to-br from-amber-500 via-pink-500 to-[#570cac] mr-4">
@@ -22,8 +22,8 @@
                             </svg>
                         </div>
                         <div class="flex-1 pl-2">
-                            <h3 class="text-2xl font-semibold uppercase text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-pink-500 lg:text-xl">LYBIMBO</h3>
-                            <p class="text-white">Baccalaureat C </p>
+                            <h3 class="text-2xl font-semibold uppercase text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-pink-500 lg:text-xl">LYCÉE BIMBO</h3>
+                            <p class="text-white">Baccalauréat C </p>
                             <p class="text-white">2024</p>
                         </div>
                     </div>
@@ -44,8 +44,8 @@
                             </svg>
                         </div>
                         <div class="flex-1 pl-2">
-                            <h3 class="text-2xl font-semibold uppercase text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-pink-500 lg:text-xl">IUes/Insam</h3>
-                            <p class="text-white">BTS</p>
+                            <h3 class="text-2xl font-semibold uppercase text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-pink-500 lg:text-xl">IUes/INSAM</h3>
+                            <p class="text-white">Génie Logiciel - Niveau 1</p>
                             <p class="text-white">2026</p>
                         </div>
                     </div>
@@ -53,29 +53,26 @@
             </div>
             <div class="mt-4 md:mt-0 text-left flex flex-col z-10 h-full" data-aos="flip-right">
                 <h2 class="text-white text-4xl font-bold md:text-center text-left mb-4">
-                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-pink-500">A Propos</span>
+                    <span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-pink-500">À Propos</span>
                     de moi
                 </h2>
                 <p class="mt-8 py-8 text-base lg:text-lg">
-                    Je suis un passionné de développement web et mobile, toujours curieux de découvrir de nouvelles technologies et de repousser mes limites. Mon stack principal tourne autour de JavaScript, Vue.js, Laravel et Flutter, avec une bonne dose de créativité et de rigueur dans chaque projet.
-
-Formé en génie logiciel, j’accorde une grande importance à l’architecture du code, à l’expérience utilisateur, et à la qualité de ce que je livre. J'aime transformer des idées en produits concrets, performants et utiles. Que ce soit pour un site vitrine, une app mobile ou un système complet, j’avance avec une vision claire : créer des solutions modernes qui ont un impact.
-
-En dehors du code, je m'intéresse aussi à l'IA, au design UI/UX, et à l’entrepreneuriat numérique. Chaque projet est pour moi une nouvelle aventure à vivre avec passion et détermination. 🚀
-
+                    Je suis Stael DJUNE, un développeur passionné et étudiant en Génie Logiciel à l'Institut Universitaire d'Études Supérieures (IUes/Insam) à Mbouda, Cameroun. En tant que développeur web et mobile en constante progression, je me distingue par ma curiosité, mon orientation vers l'apprentissage et mon expertise technique.
+                    
+                    Je suis orienté vers le développement d'applications complètes (full-stack) et l'hébergement de sites web. J'aime structurer mon code, optimiser les performances backend et créer des expériences utilisateur remarquables. Mon travail se caractérise par une attention aux détails, une architecture MVC bien pensée et une intégration front/back complète via API.
                 </p>
                 <div class="grid grid-cols-3 gap-4 max-w-lg pt-8">
                 <div class="text-center rounded-xl bg-[#111a3c] shadow-lg border border-[#1f1641] p-3">
-                    <h3 class="text-white text-xl font-bold sm:text-2xl lg:text-3xl">+200</h3>
-                    <p class="text-sm sm:text-base text-gray-300">Clients satisfaits</p>
+                    <h3 class="text-white text-xl font-bold sm:text-2xl lg:text-3xl">+3</h3>
+                    <p class="text-sm sm:text-base text-gray-300">Ans d'expérience</p>
                 </div>
                 <div class="text-center rounded-xl bg-[#111a3c] shadow-lg border border-[#1f1641] p-3">
                     <h3 class="text-white text-xl font-bold sm:text-2xl lg:text-3xl">+10</h3>
-                    <p class="text-sm sm:text-base text-gray-300">Projects</p>
+                    <p class="text-sm sm:text-base text-gray-300">Projets complets</p>
                 </div>
                 <div class="text-center rounded-xl bg-[#111a3c] shadow-lg border border-[#1f1641] p-3">
-                    <h3 class="text-white text-xl font-bold sm:text-2xl lg:text-3xl">+5</h3>
-                    <p class="text-sm sm:text-base text-gray-300">annees</p>
+                    <h3 class="text-white text-xl font-bold sm:text-2xl lg:text-3xl">+15</h3>
+                    <p class="text-sm sm:text-base text-gray-300">Clients satisfaits</p>
                 </div>
                 </div>
             </div>
@@ -85,5 +82,5 @@ En dehors du code, je m'intéresse aussi à l'IA, au design UI/UX, et à l’ent
 <script setup>
 </script>
 <style>
-    
+
 </style>
